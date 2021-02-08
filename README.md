@@ -1,3 +1,3 @@
 # wrangler
 
-Pandas text data normalization helper classes.
+Text data normalization helper classes.
